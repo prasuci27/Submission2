@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="company">Company</string>
+    <string name="followers">Pengikut</string>
+    <string name="followers1">Fols</string>
+    <string name="following">Mengikuti</string>
+    <string name="following1">Fol</string>
+    <string name="repository">Repository</string>
+    <string name="repository1">Repo</string>
+    <string name="user_not_found">Pengguna Tidak Ditemukan</string>
+    <string name="search">Cari</string>
+    <string name="github_user">Pengguna Github</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+</resources>

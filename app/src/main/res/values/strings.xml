@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="followers1">Fols</string>
+    <string name="following">Following</string>
+    <string name="following1">Fol</string>
+    <string name="repository">Repository</string>
+    <string name="repository1">Repo</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="search">Search</string>
+    <string name="github_user">Github User</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
